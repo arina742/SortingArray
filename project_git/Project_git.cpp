@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() // хаха твоя прога не оч 
+// пфф, а ты попробуй лучше написать
 {
 	double array[7] = { 5, 3, 7, 9, 0, 1, 7 };
 	int length = size(array);
