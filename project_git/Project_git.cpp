@@ -2,9 +2,10 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main() // хаха твоя прога не оч 
+// пфф, а ты попробуй лучше написать
 {
-	double array[6] = { 5, 3, 7, 9, 0, 1 };
+	double array[7] = { 5, 3, 7, 9, 0, 1, 7 };
 	int length = size(array);
 
 	cout << "Array after bubble sorting:\n";
